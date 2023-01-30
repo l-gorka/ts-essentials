@@ -133,7 +133,6 @@ const requestsMock = [
     path: 'user',
     params: {
       id: '3f5h67s4s',
-      11: '231'
     },
   }
 ];
